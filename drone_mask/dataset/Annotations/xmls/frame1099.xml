@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flying_drones_part1_orignal_images</folder>
+	<filename>frame1099.jpg</filename>
+	<path>C:\Users\dell\Desktop\Border-Surveillance\Youtube_clips_frames\Flying_drones_part1\Flying_drones_part1_orignal_images\frame605.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>664</xmin>
+			<ymin>554</ymin>
+			<xmax>748</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>
